@@ -1,1 +1,1 @@
-Main python file from my video tutorial about countdonw application.
+Main python file from my video tutorial about countdown application.
